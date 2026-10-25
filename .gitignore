@@ -1,0 +1,12 @@
+
+# Compiled program
+*.exe
+*.out
+*.o
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
